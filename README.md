@@ -1,0 +1,2 @@
+# Markov Chain Rankings
+This repository contains the code used to scrape NBA results from basketball-reference and also test the accuracy of the markov method for sports rankings. Rankings for the NBA playoffs for all seasons dating back to the NBA/ABA merger were created using markov chains and the accuracy was tested against that of the NBA official seeding. The paper associated with the code is also included in the repository.
